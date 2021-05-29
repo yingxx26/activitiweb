@@ -1,4 +1,15 @@
 Acticiti7工作流引擎
+
+>
+     测试账号：bajie
+     密码：1
+     测试账号：wukong
+     密码：1
+     salaboy
+* 点击IDEA右上方绿色箭头Run项目（或按Shift+F10运行项目）
+* 打开浏览器输入地址localhost:8080/layuimini/page/login-1.html
+
+
 ===============
 # 项目介绍
 基于[Acticiti7](https://github.com/Activiti/Activiti)的Web工作流引擎，完整开源。
@@ -67,7 +78,7 @@ Acticiti7工作流引擎
      密码：1
      测试账号：wukong
      密码：1
-
+     salaboy
 * 点击IDEA右上方绿色箭头Run项目（或按Shift+F10运行项目）
 * 打开浏览器输入地址localhost:8080/layuimini/page/login-1.html
 
